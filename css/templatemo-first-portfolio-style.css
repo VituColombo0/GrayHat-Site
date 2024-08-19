@@ -1,12 +1,12 @@
 :root {
-  --white-color:                  #f0efef;
-  --primary-color:                #61667c;
-  --secondary-color:              #84918d;
+  --white-color:                  #fdfdfd;
+  --primary-color:                #000000;
+  --secondary-color:              #9da5a3;
   --section-bg-color:             #f9f9f9;
   --dark-color:                   #000000;
   --p-color:                      #717275;
-  --border-color:                 #e9eaeb;
-  --featured-border-color:        #0827ee;
+  --border-color:                 #037ffa;
+  --featured-border-color:        #46474b;
 
   --body-font-family:             'DM Sans', sans-serif;
 
@@ -499,7 +499,7 @@ strong {
   height: 350px;
   position: absolute;
   z-index: 22;
-  top: -10px;
+  top:  10px;
   right: 0;
   left: 10;
   margin: auto;
