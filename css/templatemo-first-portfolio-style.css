@@ -1,24 +1,12 @@
-/*
-
-TemplateMo 578 First Portfolio
-
-https://templatemo.com/tm-578-first-portfolio
-
-*/
-
-
-/*---------------------------------------
-  CUSTOM PROPERTIES ( VARIABLES )             
------------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
-  --primary-color:                #535da1;
-  --secondary-color:              #14B789;
+  --white-color:                  #f0efef;
+  --primary-color:                #61667c;
+  --secondary-color:              #84918d;
   --section-bg-color:             #f9f9f9;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #e9eaeb;
-  --featured-border-color:        #727aab;
+  --featured-border-color:        #0827ee;
 
   --body-font-family:             'DM Sans', sans-serif;
 
@@ -491,7 +479,7 @@ strong {
 }
 
 .hero-title {
-	font-size: 44px;
+	font-size: 40px;
 }
 
 .hero h2 {
@@ -511,9 +499,9 @@ strong {
   height: 350px;
   position: absolute;
   z-index: 22;
-  top: -50px;
+  top: -10px;
   right: 0;
-  left: 0;
+  left: 10;
   margin: auto;
   pointer-events: none;
 }
@@ -521,14 +509,14 @@ strong {
 .hero-image {
   position: absolute;
   z-index: 22;
-  top: 0;
+  top: 100;
   width: 100%;
-  min-width: 550px;
+  min-width: 0px;
 }
 
 .hero svg {
   position: absolute;
-  z-index: 2;
+  z-index: 20;
   bottom: 0;
   right: 0;
   left: 0;
