@@ -1,8 +1,8 @@
 :root {
-  --white-color:                  #fdfdfd;
+  --white-color:                  #fffcfc;
   --primary-color:                #000000;
   --secondary-color:              #9da5a3;
-  --section-bg-color:             #f9f9f9;
+  --section-bg-color:             #857e7e;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #037ffa;
@@ -1073,7 +1073,7 @@ strong {
 
   .hero-text {
     top: 0;
-    margin-bottom: 120px;
+    margin-bottom: 120  0px;
   }
 
   .about-thumb {
@@ -1107,7 +1107,7 @@ strong {
 
   .projects-thumb {
     margin-top: 0;
-    margin-bottom: 32px;
+    margin-bottom: 30px;
   }
 
   .contact-info {
